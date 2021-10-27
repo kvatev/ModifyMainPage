@@ -1,0 +1,8 @@
+https://code.visualstudio.com/docs/languages/markdown
+https://betterprogramming.pub/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490
+https://aboutmonica.com/blog/how-to-create-a-github-profile-readme
+https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd
+https://guides.github.com/features/mastering-markdown/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+https://rahuldkjain.github.io/gh-profile-readme-generator/
